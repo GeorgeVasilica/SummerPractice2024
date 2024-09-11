@@ -26,4 +26,4 @@ This project was developed as part of a Summer Practice program at Continental. 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/yourrepository.git
+   git clone https://github.com/yourusername/yourrepository.git](https://github.com/GeorgeVasilica/SummerPractice_PowerSupply_Control_Arduino.git
